@@ -3,7 +3,7 @@
 > "A little place for the dreams you don't want to forget."
 
 A single-page, dark-themed **Dream Journal** landing page and interactive prototype — a digital diary for capturing, organizing, and reflecting on your dreams. Built entirely as one self-contained `index.html` file: no build step, no backend, no dependencies beyond two Google Fonts.
-
+**▶️ Website:** [(https://dream-journal-by-br.netlify.app/)](https://dream-journal-by-br.netlify.app/)
 ## ✨ What it does
 
 - **Live clock & greeting** — a real-time clock reads your browser's timezone (`Intl.DateTimeFormat`) and greets you differently depending on the hour ("Good morning ✦", "Late night thoughts ✦", etc.), updating every second.
